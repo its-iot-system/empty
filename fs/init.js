@@ -9,5 +9,5 @@ load('api_rpc.js');
 load('api_timer.js');
 
 Timer.set(1000, true /* repeat */, function() {
-  print("==== this is BEFORE the OTA ====");
+  print("==== this is AFTER the OTA ====");
 }, null);
