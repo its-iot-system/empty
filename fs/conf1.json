@@ -1,0 +1,22 @@
+{
+  "debug": {
+    "level": 2
+  },
+  "bt": {
+    "enable": false
+  },
+  "wifi": {
+    "sta": {
+      "enable": true
+    },
+    "ap": {
+      "enable": false
+    }
+  },
+  "dash": {
+    "enable": false
+  },
+  "sntp": {
+    "enable": true
+  }
+}
